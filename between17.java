@@ -1,9 +1,4 @@
-/*
- Lab Exercise 1
-Yeo Ewe Wen 
-20DDT20F1016
-DDT5A
- */
+
 
 import java.io.IOException;
 import java.io.PrintWriter;
